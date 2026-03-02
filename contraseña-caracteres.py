@@ -20,4 +20,6 @@ for i in range(len(array1)):
 if cont == len(array1) :
     print("contraseña correcta, acceso concedido")
 else :
+
     print("contraseña incorrecta acceso denegado")        
+
